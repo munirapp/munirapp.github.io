@@ -1,1 +1,0 @@
-import{S as t,C as n,D as o}from"./mermaid.core.bf6b6852.js";function a(e){return"string"==typeof e?new t([document.querySelectorAll(e)],[document.documentElement]):new t([o(e)],n)}export{a as s};
